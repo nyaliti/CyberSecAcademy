@@ -1,7 +1,10 @@
 <h1> # QUESTION </h1>
 
 
-<h2><p>write a bash/shell script that demonstrates how an attacker can use cURL to send a POST request with JSON data containing sensitive database configuration details to a WordPress website, and explain the impact of such an attack on an organization/website? How can organizations prevent such attacks from happening to their WordPress websites?</p></h2>
+<h2><p>write a bash/shell script that demonstrates how an attacker can use cURL to send a POST request with JSON data containing sensitive database configuration details to a WordPress website, and;<br>
+<ol>
+  <li>explain the impact of such an attack on an organization/website?</li>
+  <li>How can organizations prevent such attacks from happening to their WordPress websites?<li></ol></p></h2>
 
 
 <h1> ## EXPLANATION </h1>
